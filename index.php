@@ -62,7 +62,7 @@
                                     <img src="img/cesa.png" style="width:100%;">
                                 </div>
                                     <h3 class="text-center">Computer Engineering Student's Association <br>Presents<br>
-                                    <br>Celefesta 2022</h3><br>
+                                    <br>Celefiesta 2022</h3><br>
                                     <p class="slider-text">Explore Yourself</p>
                                     <a href="#events" class="butn butn-bord-trans mt-50" style="width:300px;">
                                             <span>Check out our Events</span>
