@@ -134,7 +134,7 @@
                     <div class="box-icon-left items">
                         <span class="icon"><i class="fa fa fa-paint-brush"></i></span>
                         <div class="cont">
-                            <h5 class="mb-10">Gandharva</h5>
+                            <h5 class="mb-10" style="font-family: 'Samarkan', sans-serif;">Gandharva</h5>
                             <p class="pb-10">Events designed for entertainment and enjoyment.</p>
                             <a href="cultural.php" class="box-icon-btn"><span>VIEW EVENTS</span></a>
                         </div>
