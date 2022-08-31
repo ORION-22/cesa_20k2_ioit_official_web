@@ -30,6 +30,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Vibur">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link href="http://fonts.cdnfonts.com/css/samarkan" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
                 
     <!-- Plugins -->
     <link rel="stylesheet" href="css/plugins.css" />

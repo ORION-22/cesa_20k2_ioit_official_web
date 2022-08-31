@@ -3,7 +3,7 @@
 
             <!-- Logo -->
             <a class="logo" href="index.php">
-                <h4  style="color:#fff;" >CESA</h4>        
+                <h4  style="color:#fff; font-family: 'Comfortaa';font-size: 31 px;" >CESA</h4>        
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
