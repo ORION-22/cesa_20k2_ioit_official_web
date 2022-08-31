@@ -134,7 +134,7 @@
                     <div class="box-icon-left items">
                         <span class="icon"><i class="fa fa fa-paint-brush"></i></span>
                         <div class="cont">
-                            <h5 class="mb-10" style="font-family: 'Samarkan', sans-serif;">Gandharva</h5>
+                            <h5 class="mb-10" style="font-family: 'Samarkan', sans-serif; font-size: 27px;">Gandharva</h5>
                             <p class="pb-10">Events designed for entertainment and enjoyment.</p>
                             <a href="cultural.php" class="box-icon-btn"><span>VIEW EVENTS</span></a>
                         </div>
@@ -145,7 +145,7 @@
                         <div class="box-icon-left items">
                             <span class="icon"><i class="fas fa-laptop-code"></i></span>
                             <div class="cont">
-                                <h5 class="mb-10">Avishkar</h5>
+                                <h5 class="mb-10" style="font-family: 'Samarkan', sans-serif; font-size: 27px;">Avishkar</h5>
                                 <p class="pb-10">Test your technical skills in these breathtaking events! </p>
                                 <a href="technical.php" class="box-icon-btn"><span>VIEW EVENTS</span></a>
                             </div>
@@ -155,7 +155,7 @@
                         <div class="box-icon-left items">
                             <span class="icon"><i class="fas fa-volleyball-ball"></i></span>
                             <div class="cont">
-                                <h5 class="mb-10">Sangharsha</h5>
+                                <h5 class="mb-10" style="font-family: 'Samarkan', sans-serif; font-size: 27px;">Sangharsha</h5>
                                 <p class="pb-10">Are you good enough to beat them all?</p>
                                 <a href="sports.php" class="box-icon-btn"><span>VIEW EVENTS</span></a>
                             </div>
