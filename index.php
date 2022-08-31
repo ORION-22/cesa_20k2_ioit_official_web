@@ -25,7 +25,10 @@
         ==== Start Loading -->
 
     <div class="loading">
-        <div class="load-circle">
+        <div class="e-loadholder">
+	        <div class="m-loader">
+		    <span class="e-text">CESA</span>
+	    </div>
         </div>
     </div>
     
