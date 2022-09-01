@@ -87,7 +87,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="img">
-                        <img src="img/about/1580172.png" alt="">
+                        <img src="img/events/maincelefista.png" style=" padding-top: 10px; padding-bottom: 10px; border-radius: 5%;" alt="">
                     </div>
                 </div>
 
@@ -183,27 +183,28 @@
     <!-- =====================================
         ==== Start Teams -->
 
-    <section id="team" class="team section-padding" data-scroll-index="4">
-        <div class="container">
+    <section id="team" class="team section-padding" data-scroll-index="4" style="background-color:#f9f9f9 ;">
+        <div class="container" >
             <div class="row" style="margin-left:0;margin-right:0;" >
+                    
 
-                <div class="section-head text-center col-sm-12" >
+                <div class=" col-lg-6 section-head text-center col-sm-12" >
                     <h4>Meet Our Team!</h4>
                     <p>Thanks to our amazing team for arranging CESA 2k22!</p>
-                </div>
+                
+                    <div class="about" style="margin: 0 auto;">
+                        <div class="info text-center">
 
-
-
-
-                </div>
-
-                <div class="about" style="margin: 0 auto;">
-                    <div class="info text-center">
-
-                        <a href="team.html" class="butn">
-                            <span>VIEW ALL MEMBERS</span>
-                        </a>
+                            <a href="team.html" class="butn">
+                                <span>VIEW ALL MEMBERS</span>
+                            </a>
+                        </div>
                     </div>
+                </div>
+                <div class="col-lg-6">
+                        <div class="img ">
+                            <img src="img/about/1580172.png" alt="">
+                        </div>
                 </div>
             </div>
         </div>
