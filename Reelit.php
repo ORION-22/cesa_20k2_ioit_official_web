@@ -8,6 +8,7 @@
         background: #4e54c8 !important;
     }
 
+
     .about .img img{
         left:0;
         width:100%;
@@ -58,29 +59,22 @@
                 <div class="col-lg-6">
                     <div class="info section-padding">
                         <h5>Cultural Event</h5>
-                        <h2>Scribble</h2>
+                        <h2>Shor in the City !!!</h2>
                         <ul class="info-list">
                             <li><i class="fas fa-check"></i>
-                                <p>Date : 24/09/2021</p>
+                                <p>DATE: 2nd Sept. to 4th Sept. 2022</p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>Time: 3:00PM</p>
-                            </li>
-                            <li><i class="fas fa-check"></i>
-                                <p>1st Winner: Rs. 300</p>
-                            </li>
-                            <li><i class="fas fa-check"></i>
-                                <p>2nd Winner: Rs. 100</p>
+                                <p>Prize: Cash Prize</p>
                             </li>
                             <li><i class="fas fa-check"></i>
                                 <p>No Entry Fee!!</p>
                             </li>
+                            <li><i class="fas fa-check"></i>
+                            <p>Contact:(Pratham Jamkhande) 9579501099</p>
+                            </li>
                         </ul>
-
-                        <a href="rulebooks/Skribble.pdf" target=_blank class="butn">
-                                <span>Rule Book</span>
-                            </a>
-                            <a href="https://forms.gle/bStHeUfGRPbUkR1dA" target=_blank class="butn">
+                            <a href="https://forms.gle/4kTYcGP3CeYyg6so8" target=_blank class="butn">
                                 <span>Register Now!</span>
                             </a>
                     </div>
@@ -88,7 +82,7 @@
 
                 <div class="col-lg-6">
                     <div class="img">
-                        <img src="img/events/cultural/Scribble.jpeg" alt="" style="max-width:100%;">
+                        <img src="img/events/cultural/Feel_it_reel_it.png" alt="">
                     </div>
                 </div>
             </div>

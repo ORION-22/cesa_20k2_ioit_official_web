@@ -29,7 +29,7 @@
             <div class="row">
 
                 <div class="section-head text-center col-sm-12">
-                    <h4>Gandharva</h4>
+                    <h4 style="font-family: 'Samarkan', sans-serif; font-size: 35 px;">Gandharva</h4>
                     <p>Events designed for entertainment and enjoyment.</p>
                 </div>
 
@@ -40,16 +40,16 @@
                 <div class="gallery full-width">
 
                     <!-- gallery item -->
-                    <a href="WebFlix.php">
+                    <a href="Reelit.php">
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="img/events/cultural/Webflix.jpeg" alt="image">
+                                <img src="img/events/cultural/Feel_it_reel_it.png" style="border-radius: 10px" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">
-                                            <h3>WebFlix</h3>
+                                            <h3>Feel It Reel It</h3>
                                         </div>
-                                        <a href="WebFlix.php" >
+                                        <a href="Reelit.php" >
                                                 <span class="icon"><i class="fas fa-angle-right"></i></span>
                                             </a>
                                     </div>
@@ -58,16 +58,53 @@
                         </div>
                     </a>
 
-                    <a href="Scribble.php" >
+                    <a href="HouseofGlamour.php" >
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="img/events/cultural/Scribble.jpeg" alt="image">
+                                <img src="img/events/cultural/houseofglamour.png" style="border-radius: 10px" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">
-                                            <h3>Scribble</h3>
+                                            <h3>House of Glamour</h3>
                                         </div>
-                                        <a href="Scribble.php" >
+                                        <a href="HouseofGlamour.php" >
+                                                <span class="icon"><i class="fas fa-angle-right"></i></span>
+                                            </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+
+                    <a href="kalakarkatta.php" >
+                        <div class="col-lg-6 col-md-6 items development brand">
+                            <div class="item-img">
+                                <img src="img/events/cultural/kalakarikatta.png" style="border-radius: 10px" alt="image">
+                                <div class="item-img-overlay">
+                                    <div class="overlay-info full-width">
+                                        <div class="cont v-middle">
+                                            <h3>Kalakar Katta</h3>
+                                        </div>
+                                        <a href="kalakarkatta.php" >
+                                                <span class="icon"><i class="fas fa-angle-right"></i></span>
+                                            </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="PictureBaki.php" >
+                        <div class="col-lg-6 col-md-6 items development brand">
+                            <div class="item-img">
+                                <img src="img/events/cultural/pictureabhibakiha.png" style="border-radius: 10px" alt="image">
+                                <div class="item-img-overlay">
+                                    <div class="overlay-info full-width">
+                                        <div class="cont v-middle">
+                                            <h3>Picture Abhi Baki Hai Mere Dost!!</h3>
+                                        </div>
+                                        <a href="PictureBaki.php" >
                                                 <span class="icon"><i class="fas fa-angle-right"></i></span>
                                             </a>
                                     </div>

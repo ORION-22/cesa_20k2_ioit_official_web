@@ -8,7 +8,6 @@
         background: #4e54c8 !important;
     }
 
-
     .about .img img{
         left:0;
         width:100%;
@@ -59,29 +58,26 @@
                 <div class="col-lg-6">
                     <div class="info section-padding">
                         <h5>Cultural Event</h5>
-                        <h2>WebFlix</h2>
+                        <h2>Picture Abhi Baki Hai Mere Dost !!!</h2>
                         <ul class="info-list">
-                            <li><i class="fas fa-check"></i>
-                                <p>DATE: 23/09/2021</p>
+                        <li><i class="fas fa-check"></i>
+                                <p>Event : Comp Dept.</p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>TIME: 1:00 PM</p>
+                                <p>Date : Fri. 2nd Sept, 2022</p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>1st Winner: Rs 300 </p>
-                            </li>
-                            <li><i class="fas fa-check"></i>
-                                <p>2nd Winner: Rs 100</p>
+                                <p>Time: 12 PM onwards </p>
                             </li>
                             <li><i class="fas fa-check"></i>
                                 <p>No Entry Fee!!</p>
                             </li>
+                            <li><i class="fas fa-check"></i>
+                                <p>Contact :(Sushil Shinde) 9158187910</p>
+                            </li>
                         </ul>
 
-                        <a href="rulebooks/Webfilx Rule Book.pdf" target=_blank class="butn">
-                                <span>Rule Book</span>
-                            </a>
-                            <a href="https://forms.gle/oUyFJ8rat6nzQ9SN6" target=_blank class="butn">
+                            <a href="https://forms.gle/nYBU9a6Td8FsiBGr7" target=_blank class="butn">
                                 <span>Register Now!</span>
                             </a>
                     </div>
@@ -89,7 +85,7 @@
 
                 <div class="col-lg-6">
                     <div class="img">
-                        <img src="img/events/cultural/Webflix.jpeg" alt="">
+                        <img src="img/events/cultural/pictureabhibakiha.png" alt="" style="max-width:100%;">
                     </div>
                 </div>
             </div>

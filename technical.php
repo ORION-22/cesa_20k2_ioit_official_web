@@ -43,7 +43,7 @@
                     <a href="ratebull.php">
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="img/events/technical/rate_bull_e.jpeg" alt="image">
+                                <img src="img/events/technical/rate_bull_e.jpeg" style="border-radius: 10px" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">
@@ -61,7 +61,7 @@
                     <a href="templify.php" >
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="img/events/technical/templify_e.jpeg" alt="image">
+                                <img src="img/events/technical/templify_e.jpeg" style="border-radius: 10px" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">
