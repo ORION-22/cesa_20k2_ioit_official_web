@@ -9,9 +9,10 @@
     }
 
 
+
     .about .img img{
         left:0;
-        width:100%;
+        max-width:100%;
     }
 
 </style>
@@ -58,28 +59,32 @@
 
                 <div class="col-lg-6">
                     <div class="info section-padding">
-                        <h5>Sports Event</h5>
-                        <h2>Ludo</h2>
+                        <h5>Technical Event</h5>
+                        <h2>Symphony of Discussion</h2>
+                        <p>Symphony of Discussion - Group discussion is an important activity in academic, business, 
+                            and administrative spheres. It is a systematic and purposeful interactive oral 
+                            process. Here the exchange of ideas, thoughts and feelings take place through 
+                            oral communication. The exchange of ideas takes place in a systematic and structured 
+                            way.</p>
                         <ul class="info-list">
-                            
-                        <li><i class="fas fa-check"></i>
-                                <p>DATE: 23/09/2021</p>
+                            <li><i class="fas fa-check"></i>
+                                <p>DATE: 5nd Sept. 2022</p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>TIME: 2:00 PM</p>
+                                <p>Venue: Comp Dept. 1.30 Pm onwards</p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>Prize Money: Rs 400 </p>
+                                <p>Winner: <i class="fa fa-inr"></i>300 </p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>No Entry Fee!</p>
+                                <p>Contact: (Shrinivas Khond) 8956431023</p>
                             </li>
                         </ul>
 
-                        <a href="rulebooks/CESA 2K21 Rule book of LUDO Event-converted (1).pdf" target=_blank class="butn">
+                        <a href="rulebooks/2022/Rule Book Symphony of Discussion.pdf" target=_blank class="butn">
                                 <span>Rule Book</span>
                             </a>
-                            <a href="https://forms.gle/ssXFPZEZzwac5d1f7" target=_blank class="butn">
+                            <a href="https://forms.gle/AyXp88LuqvvpUvFZA" target=_blank class="butn">
                                 <span>Register Now!</span>
                             </a>
                     </div>
@@ -87,7 +92,7 @@
 
                 <div class="col-lg-6">
                     <div class="img">
-                        <img src="img/events/sports/Ludo.jpg" alt="">
+                        <img src="img/events/technical/groupdiscussion.jpeg" alt="">
                     </div>
                 </div>
             </div>

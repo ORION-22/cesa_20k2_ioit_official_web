@@ -76,10 +76,42 @@
                         </div>
                     </a>
 
-                    
 
+                    <a href="coldemail.php" >
+                        <div class="col-lg-6 col-md-6 items development brand">
+                            <div class="item-img">
+                                <img src="img/events/technical/coldemailing.jpeg" style="border-radius: 10px" alt="image">
+                                <div class="item-img-overlay">
+                                    <div class="overlay-info full-width">
+                                        <div class="cont v-middle">
+                                            <h3>Cold Emailing</h3>
+                                        </div>
+                                        <a href="coldemail.php" >
+                                                <span class="icon"><i class="fas fa-angle-right"></i></span>
+                                            </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
 
-
+                    <a href="groupdiscussion.php" >
+                        <div class="col-lg-6 col-md-6 items development brand">
+                            <div class="item-img">
+                                <img src="img/events/technical/groupdiscussion.jpeg" style="border-radius: 10px" alt="image">
+                                <div class="item-img-overlay">
+                                    <div class="overlay-info full-width">
+                                        <div class="cont v-middle">
+                                            <h3>SYMPHONY OF DISCUSSION</h3>
+                                        </div>
+                                        <a href="groupdiscussion.php" >
+                                                <span class="icon"><i class="fas fa-angle-right"></i></span>
+                                            </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
                 </div>
 
             </div>
