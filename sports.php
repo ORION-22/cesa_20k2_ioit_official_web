@@ -40,16 +40,16 @@
                 <div class="gallery full-width">
 
                     <!-- gallery item -->
-                    <a href="BGMI.php">
+                    <a href="valorant.php" >
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="img/events/sports/BGMI.jpg" alt="image">
+                                <img src="img/events/sports/valorant.png" style="border-radius: 10px" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">
-                                            <h3>BGMI</h3>
+                                            <h3>Valorant </h3>
                                         </div>
-                                        <a href="BGMI.php" >
+                                        <a href="valorant.php" >
                                                 <span class="icon"><i class="fas fa-angle-right"></i></span>
                                             </a>
                                     </div>
@@ -58,27 +58,46 @@
                         </div>
                     </a>
 
-                    <a href="ludo.php" >
+                    <a href="#" >
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="img/events/sports/Ludo.jpg" alt="image">
+                                <img src="img/events/sports/combineall.png" style="border-radius: 10px" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">
-                                            <h3>Ludo</h3>
+                                            <h3>Offline Events</h3>
                                         </div>
-                                        <a href="ludo.php" >
+                                        <a href="#" >
                                                 <span class="icon"><i class="fas fa-angle-right"></i></span>
                                             </a>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div><br><br><br>
                     </a>
-
-
-
                 </div>
+                <div class="gallery full-width">
+                    <a href="#" >
+                        <div class="col-lg-6 col-md-6 items development brand">
+                            <div class="item-img">
+                                <img src="img/events/sports/ArmWrestling.jpg" style="border-radius: 10px" alt="image">
+                                <div class="item-img-overlay">
+                                    <div class="overlay-info full-width">
+                                        <div class="cont v-middle">
+                                            <h3>Arm Wrestling</h3>
+                                        </div>
+                                        <a href="#" >
+                                                <span class="icon"><i class="fas fa-angle-right"></i></span>
+                                            </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+</div>
+
+
+                
 
             </div>
         </div>
