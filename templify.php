@@ -82,12 +82,6 @@
                                 <p>1st Winner: <i class="fa fa-inr"></i>500 </p>
                             </li>
                             <li><i class="fas fa-check"></i>
-                                <p>2nd Winner: <i class="fa fa-inr"></i>500</p>
-                            </li>
-                            <li><i class="fas fa-check"></i>
-                                <p>3rd Winner: <i class="fa fa-inr"></i>500</p>
-                            </li>
-                            <li><i class="fas fa-check"></i>
                                 <p>Contact: (Atharva Tirkhunde) 8625015833</p>
                             </li>
                         </ul>

@@ -66,18 +66,30 @@
                             <li><i class="fas fa-check"></i>
                                 <p>DATE: 3rd Sept. to 4th Sept. 2022</p>
                             </li>
+                            <li><i class="fas fa-check"></i>
+                                <p>Entry Fee : <b>FREE</b></p>
+                            </li>
+                            <li><i class="fas fa-check"></i>
+                                <p>Venue : Online</p>
+                            </li>
+                            <li><i class="fas fa-check"></i>
+                                <p>1st Winner: <i class="fa fa-inr"></i>1000 </p>
+                            </li>
+                            <li><i class="fas fa-check"></i>
+                                <p>2nd Winner: <i class="fa fa-inr"></i>500</p>
+                            </li>
+                            <li><i class="fas fa-check"></i>
+                                <p>Contact: (Nileet Savale) 9479700944</p>
+                            </li>
                         </ul>
 
-                        <a href="#" target=_blank class="butn">
+                        <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdQSoCX4IxrTGNIyOt0ju4mFhJD_5F_RvxxNgR9qaIL5pgF8w/viewform" target=_blank class="butn">
                                 <span>Rule Book</span>
-                            </a>
+                            </a> -->
                             <br>
-                            <a href="#" target=_blank class="butn">
-                                <span>Register Now! (Squad)</span>
-                            </a> <br>
-                            <a href="#" target=_blank class="butn">
-                                <span>Register Now! (Solo)</span>
-                            </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdQSoCX4IxrTGNIyOt0ju4mFhJD_5F_RvxxNgR9qaIL5pgF8w/viewform" target=_blank class="butn">
+                                <span>Register Now! </span>
+                            </a> 
                     </div>
                 </div>
 
