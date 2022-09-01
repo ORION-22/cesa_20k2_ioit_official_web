@@ -45,7 +45,6 @@
                 <div class="col-lg-3">
                     <div class="contact-info">
                         <div class="title">
-                        <i class="bi bi-geo"></i>
                             <h3>CONTACT US</h3>
                         </div>
                         <ul>

@@ -29,7 +29,7 @@
             <div class="row">
 
                 <div class="section-head text-center col-sm-12">
-                    <h4>Avishkar</h4>
+                    <h4 style="font-family: 'Samarkan', sans-serif; font-size: 35 px;">Avishkar</h4>
                     <p>Test your technical skills in these breathtaking events!</p>
                 </div>
 
@@ -40,16 +40,16 @@
                 <div class="gallery full-width">
 
                     <!-- gallery item -->
-                    <a href="developer-hacks.php">
+                    <a href="ratebull.php">
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="img/events/technical/1.jpeg" alt="image">
+                                <img src="img/events/technical/rate_bull_e.jpeg" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">
-                                            <h3>Devloper Hacks</h3>
+                                            <h3>Rate Bull</h3>
                                         </div>
-                                        <a href="developer-hacks.php" >
+                                        <a href="ratebull.php" >
                                                 <span class="icon"><i class="fas fa-angle-right"></i></span>
                                             </a>
                                     </div>
@@ -58,16 +58,16 @@
                         </div>
                     </a>
 
-                    <a href="pdf-hunt.php" >
+                    <a href="templify.php" >
                         <div class="col-lg-6 col-md-6 items development brand">
                             <div class="item-img">
-                                <img src="img/events/technical/PDF Hunt.jpeg" alt="image">
+                                <img src="img/events/technical/templify_e.jpeg" alt="image">
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <div class="cont v-middle">
-                                            <h3>PDF Hunt</h3>
+                                            <h3>Templify</h3>
                                         </div>
-                                        <a href="pdf-hunt.php" >
+                                        <a href="templify.php" >
                                                 <span class="icon"><i class="fas fa-angle-right"></i></span>
                                             </a>
                                     </div>
@@ -75,6 +75,8 @@
                             </div>
                         </div>
                     </a>
+
+                    
 
 
 
