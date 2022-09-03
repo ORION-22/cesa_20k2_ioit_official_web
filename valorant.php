@@ -83,9 +83,9 @@
                             </li>
                         </ul>
 
-                        <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdQSoCX4IxrTGNIyOt0ju4mFhJD_5F_RvxxNgR9qaIL5pgF8w/viewform" target=_blank class="butn">
+                        <a href="rulebooks/2022/Valorant_rulebook.pdf" target=_blank class="butn">
                                 <span>Rule Book</span>
-                            </a> -->
+                            </a>
                             <br>
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSdQSoCX4IxrTGNIyOt0ju4mFhJD_5F_RvxxNgR9qaIL5pgF8w/viewform" target=_blank class="butn">
                                 <span>Register Now! </span>
